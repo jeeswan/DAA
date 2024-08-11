@@ -124,7 +124,7 @@ int main() {
         cout << "Key " << key_to_search << " not found in the BST." << endl;
     }
 
-    int key_to_delete = 30;
+    int key_to_delete = 3;
     root = deleteNode(root, key_to_delete, total_steps);
     inorder(root, total_steps);
     cout << endl;

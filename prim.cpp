@@ -1,6 +1,8 @@
 /*Theory of Prim's Algorithm:
 
-    Prim's Algorithm: Prim's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a connected, undirected graph. It starts with an arbitrary node and grows the tree by adding the cheapest edge that connects a vertex in the tree to a vertex outside the tree. This process continues until all vertices are included in the MST.
+    Prim's Algorithm: Prim's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a connected, undirected graph. 
+	It starts with an arbitrary node and grows the tree by adding the cheapest edge that connects a vertex in the tree to a vertex outside the tree.
+	This process continues until all vertices are included in the MST.
 
     Complexities:
         Time Complexity:
